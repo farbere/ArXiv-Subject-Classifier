@@ -1,0 +1,9 @@
+output
+venv
+vscode
+.vscode
+.venv
+testing.ipynb
+__pycache__
+bert-fineturned-sem_eval-english
+data
